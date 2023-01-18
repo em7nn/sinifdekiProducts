@@ -1,0 +1,21 @@
+.mia{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    .selma{
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       text-align:center;
+        width: 300px;
+        border: 3px solid black;
+    }
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
